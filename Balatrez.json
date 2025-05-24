@@ -1,0 +1,9 @@
+{
+    "id": "BalatroBalatrez",
+    "name": "Balatro Balatrez",
+    "author": ["ITaggePea"],
+    "description": "esta jugando a Balatro",
+    "prefix": "balatrez",
+    "main_file": "Balatrez.lua",
+    "version": "1.0.0"
+}
